@@ -1,4 +1,4 @@
-# Project: Dataset Investigation
+# Dataset Investigation
 
 Author: Tania Moulik
 
