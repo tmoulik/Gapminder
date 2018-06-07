@@ -4,6 +4,7 @@ Author: Tania Moulik
 
 email:tania.moulik@gmail.com
 
+### Data Used: 
 This is an analysis of data found on Gapminder.org [link](http://www.gapminder.org/data/). 
 
 I studied variois socio-economic factors, their trends over the years and their relationships.
@@ -33,3 +34,6 @@ how it has changed over the years globally for different countries around the gl
     4. Extreme Poverty (%age of population), i.e. people living at less than $1.25 per day (Poverty)
     
     5. BMI's of males and females (BMI male, BMI female)
+
+### How you can contribute:
+Feel free to use the code and dataset and add other interesting plots or insights. 
